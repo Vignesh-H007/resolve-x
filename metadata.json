@@ -1,0 +1,6 @@
+{
+  "name": "ResolveX",
+  "description": "A civic-governance portal that lets residents report local infrastructure and safety problems, then track them through to resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
